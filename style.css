@@ -156,13 +156,13 @@ table {
 }
 
 th, td {
-    padding-top: 12px;
-    padding-bottom: 12px;
+    padding-top: 10px;
+    padding-bottom: 9px;
     /* Стили для ячеек таблицы */
 }
 
 td{
-    padding-left: 12px;
+    padding-left: 11px;
     width: 55px;
 }
 
@@ -170,7 +170,7 @@ footer {
     background: rgba(163, 167, 255, 0.3);;
     width: 1440px;
     height: 70px;
-    padding-top: 26px;
+    padding: 26px 0px;
     /* Стили для футера */
 }
 
