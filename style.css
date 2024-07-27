@@ -34,7 +34,8 @@ background-color:#fafaff;;
 .main-title {
 font-weight: 700;
 font-size: 48px;
-padding-top: 60px;    
+padding-top: 60px; 
+padding-bottom: 0px;   
     /* Стили для заголовка в первой секции */
 }
 
