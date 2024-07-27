@@ -149,16 +149,11 @@ table {
 }
 
 th, td {
-    padding-left: 15px;
-    padding-top: 12px;
+    padding:12px 15px;
     /* Стили для ячеек таблицы */
 }
 
-td{
-    padding-left: 15px;
-    padding-top: 12px;
-    width: 55px;
-}
+
 
 footer {
     background: rgba(163, 167, 255, 0.3);;
