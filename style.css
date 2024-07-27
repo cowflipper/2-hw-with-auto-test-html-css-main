@@ -78,7 +78,6 @@ select {
     margin-bottom: 25px;
     font-weight: 700;
     font-size: 24px;
-    padding-bottom: 25px;
     /* Стили для заголовков во второй секции */
 }
 
@@ -87,7 +86,7 @@ select {
     font-weight: 400;
     font-size: 16px;
     list-style-image: url("./assets-2/strl.svg");
-    padding:0 20px;
+    padding: 20px;
     /* Стили для маркированного списка во второй секции */
 }
 
