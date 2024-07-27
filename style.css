@@ -55,7 +55,8 @@ height: 508px;
 
 .about-section {
 width: 1440px;
-height: 883px;   
+height: 883px;
+padding: 100px 0;   
     /* Стили для второй секции */
 }
 
