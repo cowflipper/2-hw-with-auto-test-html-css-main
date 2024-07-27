@@ -25,6 +25,7 @@ font-size: 20px;
 }
 
 .main-section {
+padding-top: 60px;    
 width:1440px;
 height: 1024px;
 background-color:#fafaff;;
@@ -34,8 +35,7 @@ background-color:#fafaff;;
 .main-title {
 font-weight: 700;
 font-size: 48px;
-padding-top: 60px; 
-padding-bottom: 60px; ;  
+margin-bottom: 20px;
     /* Стили для заголовка в первой секции */
 }
 
@@ -47,7 +47,7 @@ padding-top: 20px;
 }
 
 .main-image {
-width: 715px;
+max-width: 715px;
 height: 508px;
     /* Стили для изображения в первой секции */
 }
@@ -75,7 +75,7 @@ select {
 }
 
 .section-title {
-    
+    margin-bottom: 25px;
     font-weight: 700;
     font-size: 24px;
     padding-bottom: 25px;
@@ -156,13 +156,13 @@ table {
 }
 
 th, td {
-padding-left:15px ;
-padding-bottom: 12px;
-padding-top: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
     /* Стили для ячеек таблицы */
 }
 
 td{
+    padding-left: 12px;
     width: 55px;
 }
 
@@ -170,7 +170,7 @@ footer {
     background: rgba(163, 167, 255, 0.3);;
     width: 1440px;
     height: 70px;
-    padding-top: 26px 0px;
+    padding-top: 26px;
     /* Стили для футера */
 }
 
