@@ -170,8 +170,7 @@ footer {
     background: rgba(163, 167, 255, 0.3);;
     width: 1440px;
     height: 70px;
-    padding-top: 26px;
-    padding-bottom:27px ;
+    padding-top: 26px; ;
     /* Стили для футера */
 }
 
