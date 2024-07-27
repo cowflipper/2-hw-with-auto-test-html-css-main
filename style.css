@@ -35,7 +35,8 @@ background-color:#fafaff;;
 font-weight: 700;
 font-size: 48px;
 padding-top: 60px; 
-padding-bottom: 0px;   
+padding-bottom: 60px;
+width: 100%;   
     /* Стили для заголовка в первой секции */
 }
 
